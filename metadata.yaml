@@ -1,0 +1,39 @@
+_repo: The-Rover-Boys-in-Alaska--or-Lost-in-the-Fields-of-Ice_26902
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Richards, Dick
+    gutenberg_agent_id: '32315'
+    url: http://www.gutenberg.org/2009/agents/32315
+covers:
+- cover_type: archival
+  image_path: 26902-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26902'
+  lccn: '14006990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Alaska -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+title: The Rover Boys in Alaska; or, Lost in the Fields of Ice
+url: http://www.gutenberg.org/ebooks/26902
