@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26902#The-Rover-Boys-in-Alaska--or-Lost-in-the-Fields-of-Ice
 gutenberg_issued: '2008-10-12'
 gutenberg_type: Text
 identifiers:
